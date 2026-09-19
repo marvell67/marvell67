@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20Marvell&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">Marvell</h1>
+<h1 align="center">Marvell Julio Chai</h1>
 
 <p align="center">Peserta GitReady 2.0 | Junior Web Developer Enthusiast</p>
 
